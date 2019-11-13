@@ -1,0 +1,9 @@
+1.What is a Gitrepository?
+A Gitrepository is place that holds every file and every line of code in a Git project.
+
+2.What are the 2 special features of a Gitrepository?
+It allows you to go back to any version of your project, and lets you pull code to be used in newer versions of your code.
+
+3.Why or how do those features help your collaborative project?
+Those features help in a collaborative project because you are able to take code and files from different people and combine it into 
+one. 
