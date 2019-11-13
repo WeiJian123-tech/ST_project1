@@ -2,4 +2,8 @@
   A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project, 
   building a history over time. Meaning, if you delete the .git/ folder, then you delete your project’s history.
 2.What are the 2 special features of a Gitrepository?
+  Feature Branch Workflow. One of the biggest advantages of Git is its branching capabilities.
+  Distributed Development. Each developer gets a working copy that points back to a single central repository.
 3.Why or how do those features help your collaborative project?
+  It helps to keep things organized and not all over the place. It can also be easily accesible to the whole group whenever they need it, 
+  wherever they are.
