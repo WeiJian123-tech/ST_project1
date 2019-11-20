@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="icon" type="image/png" href="file:///Images/ECONO logo.png">
+	<link href="ECONO_CSS.css" rel="stylesheet" type="text/css" />
+</head>
+
+	
+<body>
+	<style>
+body {
+  background-image: url(' ../../Images/Econo_background.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+</style>
+    
+	
+	<div class="header">
+	<header>
+        <center>
+          <h1> [ E C O N O ] </h1>
+        </center>
+	</header>
+	</div>
+	 <center>
+	 <img src="../../Images/company members.png" width="70%" height="40%" alt="Copyrights">
+	 </center>
+	<br>
+	<center>
+		<div class="socialsmedia">
+	<a href="https://www.instagram.com/e_c_o_n_o/ "><img src="../../Images/Instagram.png" alt="insta" width="18%" height="40%"></a>
+	<a href="https://twitter.com/EconoDesign2020"><img src="../../Images/twitter.png" alt="twitter" width="18%" height="40%"></a>
+	<a href="https://www.linkedin.com/in/econo-designers-803485198/"><img src="../../Images/LinkedIn.png" alt="linked" width="18%" height="40%"></a>
+		</div>
+     </center>
+   
+<div class="dropbox">
+      <center>
+        <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO.html " id="home"><em class="fa fa-home"></em> E C O N O </a> <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO_info.html" id="info"><em class="fa fa-line-chart"></em> Information</a> <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO_News.html" id="news"><em class="fa fa-line-chart"></em> News</a> <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO_SocialMdedia.html" id="media"><em class="fa fa-line-chart"></em> Media</a>
+      </center>
+	</div>
