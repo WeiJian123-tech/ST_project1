@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+.dropbox{
+  position: fixed;
+  left: -13%; 
+  transition: left 1.2s; 
+  padding: 5px; 
+  width: 14%;
+  font-size: 1.5em; 
+  color: white; 
+  border-radius: 0 60px 60px 0; 
+  height: 60vh;
+  background-color: rgb(32, 29, 29);
+  line-height: 2em;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.dropbox:hover{
+  left: 0;
+}
+
+.dropbox a{
+  display: block;
+  text-decoration: none;
+  font-family: "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+  color: whitesmoke;
+}
+
+
+
+.dropbox a:hover{
+  color: #1C910D;
+}
+
+.header {
+	font-family: "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+}
+
+.Info {
+   font-family: "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+}
+
+
