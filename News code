@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="icon" type="image/png" href="file:///Images/ECONO logo.png">
+	<link href="ECONO_CSS.css" rel="stylesheet" type="text/css" />
+</head>
+
+	
+<body>
+    
+	
+	<div class="header">
+	<header>
+        <center>
+          <h1> [ E C O N O ] </h1>
+        </center>
+	</header>
+	</div>
+    <center> 
+	<div class="Info">
+	<h1> 
+	N E W S
+	</h1>
+		
+	<p> > As of now the only available news is the creation of the company (11/1/2019). </p>
+    </div>
+    </center>
+	<div class="dropbox">
+      <center>
+       <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO.html " id="home"><i class="fa fa-home"></i> E C O N O </a>
+      <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO_info.html" id="info"><i class="fa fa-line-chart"></i> Information</a>
+	  <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO_News.html" id="news"><i class="fa fa-line-chart"></i> News</a>
+	  <a href="http://techteach.us/Web2020/FGareth/WCP/Projects/ECONO/ECONO_SocialMdedia.html" id="media"><i class="fa fa-line-chart"></i> Media</a>
+      </center>
+	</div>
+  
+</body>
+</html>
